@@ -15,7 +15,7 @@ o service. Tal interação eventualmente consistirá de armazenamento,
 requisição de informações e escolha de conteúdo que será exposto.
 
 O framework Javascript/Bootstrap 5 é usado pra construir a interface Web
-que terá caráter resposivo, isto é funcionará em ambos Desktops or Mobviles.
+que tem caráter resposivo, isto é funciona em ambos Desktops or Mobiles.
 
 O deploy da aplicação é feito na cloud da Digital Ocean.
 
